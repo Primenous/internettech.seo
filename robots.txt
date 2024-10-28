@@ -4,4 +4,4 @@ Disallow: /shoes/
 User-agent: BingBot
 Disallow: /socks/
 
-Sitemap: sitemap.xml
+Sitemap: https://primenous.github.io/internettech.seo/sitemap.xml
