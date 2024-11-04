@@ -6,4 +6,7 @@ Disallow: /js/
 Disallow: /ajax/
 Disallow: /api/
 
+User-agent: *
+Allow: /
+
 Sitemap: https://primenous.github.io/internettech.seo/sitemap.xml
